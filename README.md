@@ -1,5 +1,5 @@
 # Hello, My name is Davi!
-# Known for creating WhiterKang in Telegram.
+# Known for creating WhiterKang and PyMouse in Telegram.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviisDev&theme=react&disable_animations=false&rank_icon=github&hide=prs,contribs&include_all_commits=true&show_icons=true)
 # Favorites Languages
