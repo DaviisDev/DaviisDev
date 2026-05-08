@@ -1,10 +1,10 @@
 # Hello, My name is Davi!
-# Known for creating PyMouse in Telegram.
-# I study at the Federal Institute of Education, Science and Technology (IFSP)
+### Known for creating PyMouse in Telegram.
+### I study at the Federal Institute of Education, Science and Technology (IFSP)
 
 ## Favorite Languages & OS
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,go,linux" height="40" alt="Python, Go, and Linux icons" />
+  <img src="https://skillicons.dev/icons?i=py,go,linux" height="50" alt="Python, Go, and Linux icons" />
 </p>
 
 ## Projects in Telegram
