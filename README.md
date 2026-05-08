@@ -8,7 +8,7 @@
 </p>
 
 ## Projects in Telegram
-* [PyMouse](https://t.me/PyMouseBot) — *A powerful automation tool for Telegram.*
+* [PyMouse](https://t.me/PyMouseBot) — *PyMouse is a fastest, modular and useful Telegram BOT.*
 
 ---
 
